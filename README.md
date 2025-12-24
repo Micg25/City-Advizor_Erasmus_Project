@@ -13,7 +13,7 @@
 *   **🏛️ Top Attractions**:
     *   Discover popular points of interest (museums, parks, monuments) within 5km of the city center.
     *   Synthesized descriptions and ratings.
-    *   Powered by *OpenTripMap*.
+    *   Powered by *Geoapify*.
 *   **🗺️ Interactive Map**: Explore the city with a dynamic map based on *Leaflet* and *OpenStreetMap*.
 *   **👤 User Area**:
     *   Secure Registration and Login.
@@ -27,7 +27,7 @@
 *   **Database**: SQLite.
 *   **External APIs**:
     *   OpenWeatherMap (Weather)
-    *   OpenTripMap (Attractions)
+    *   Geoapify (Attractions)
     *   OpenStreetMap (Maps)
 
 ## 🚀 Installation and Usage
