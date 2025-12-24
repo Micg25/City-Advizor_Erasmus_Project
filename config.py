@@ -8,4 +8,4 @@ class Config:
     # API Keys
     OPENWEATHER_API_KEY = os.environ.get('OPENWEATHER_API_KEY')
     GOOGLE_PLACES_API_KEY = os.environ.get('GOOGLE_PLACES_API_KEY')
-    OPENTRIPMAP_API_KEY = os.environ.get('OPENTRIPMAP_API_KEY')
+    GEOAPIFY_API_KEY = os.environ.get('GEOAPIFY_API_KEY')
